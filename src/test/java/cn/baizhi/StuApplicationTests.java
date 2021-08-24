@@ -7,14 +7,14 @@ import org.springframework.boot.test.context.SpringBootTest;
 class StuApplicationTests {
 
     @Test
-    void contextLoads() {
+    void contextLoads1() {
         System.out.println("hello GitHub！");
     }
     
     @Test
     void contextLoads() {
         int a = 0;
-        int b = 10
+        int b = 10;
         System.out.println("hello GitHub！");
     }
     
