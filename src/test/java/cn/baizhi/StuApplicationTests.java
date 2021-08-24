@@ -10,5 +10,13 @@ class StuApplicationTests {
     void contextLoads() {
         System.out.println("hello GitHub！");
     }
+    
+    @Test
+    void contextLoads() {
+        int a = 0;
+        int b = 10
+        System.out.println("hello GitHub！");
+    }
+    
 
 }
